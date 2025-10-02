@@ -23,9 +23,6 @@ public class CtoFConverter {
                 System.out.println("Invalid input: " + trash + "Please enter a valid number.");
             }
         }while(!done);
-        {
-
-        }
 
     }
 }
